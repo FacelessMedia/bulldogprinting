@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bulldog Printing — bulldogprinting.com
+
+Modern website for Bulldog Printing (D&R Press), migrated from WordPress/WooCommerce to Next.js.
+
+## Tech Stack
+
+- **Framework:** Next.js 16 (App Router)
+- **Language:** TypeScript
+- **Styling:** TailwindCSS
+- **Deployment:** Vercel CLI (auto-deploy from `main` branch)
+- **Hosting:** Vercel
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── page.tsx            # Homepage
+│   ├── about/              # About page
+│   ├── contact/            # Contact page with form
+│   ├── shop/               # Shop (all products) + [category] pages
+│   ├── product/[slug]/     # Product detail pages (77 products)
+│   ├── privacy-policy/     # Privacy Policy
+│   ├── terms-and-conditions/
+│   ├── the-local-project/
+│   ├── sitemap.ts          # Auto-generated sitemap.xml
+│   ├── robots.ts           # robots.txt
+│   └── layout.tsx          # Root layout with Header/Footer
+├── components/             # Reusable components
+│   ├── Header.tsx          # Sticky header with mega menu
+│   ├── Footer.tsx          # Full footer with links
+│   └── ProductCard.tsx     # Product grid card
+└── data/                   # Static data layer
+    ├── site-config.ts      # Business info, nav, branding
+    ├── products.ts         # 77 products with helpers
+    ├── categories.ts       # 11 product categories
+    └── types.ts            # TypeScript interfaces
+public/images/              # All images from original site
+├── branding/               # Logo, favicon, icons
+├── homepage/               # Hero and gallery images
+├── about/                  # About page images
+└── products/               # 77 product images
+```
 
-## Learn More
+## Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- **77 Products** across 11 categories — all "Call for Pricing"
+- **JSON-LD Schema** on homepage (LocalBusiness) and product pages (Product)
+- **301 Redirects** for all old WordPress/WooCommerce URLs
+- **Auto-generated sitemap.xml** and robots.txt
+- **Responsive** — mobile-first with mega menu navigation
+- **Static Generation** — all 98 pages pre-rendered at build time
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+# Install Vercel CLI
+npm i -g vercel
 
-## Deploy on Vercel
+# Deploy
+vercel --prod
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Or connect the GitHub repo to Vercel for automatic deploys on push to `main`.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Business Info
+
+- **Phone:** 773-866-1579
+- **Email:** orders@bulldogprinting.com
+- **Address:** 1723 N. 25th Avenue, Unit 1, Melrose Park, IL 60160
+- **Parent Company:** D&R Press (since 1972)

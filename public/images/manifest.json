@@ -1,0 +1,507 @@
+{
+  "downloadedAt": "2026-03-05T16:15:48.308Z",
+  "branding": [
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/06/Bulldog-Printing-logo-1.png",
+      "filename": "logo.png",
+      "subdir": "branding",
+      "destPath": "images/branding/logo.png"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/01/cropped-bulldog-LOGO-only-32x32.png",
+      "filename": "favicon-32x32.png",
+      "subdir": "branding",
+      "destPath": "images/branding/favicon-32x32.png"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/01/cropped-bulldog-LOGO-only-180x180.png",
+      "filename": "apple-touch-icon.png",
+      "subdir": "branding",
+      "destPath": "images/branding/apple-touch-icon.png"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/01/cropped-bulldog-LOGO-only-192x192.png",
+      "filename": "favicon-192x192.png",
+      "subdir": "branding",
+      "destPath": "images/branding/favicon-192x192.png"
+    }
+  ],
+  "homepage": [
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/07/Screen-Shot-2020-06-26-at-7.38.18-PM.png",
+      "filename": "hero-products.png",
+      "subdir": "homepage",
+      "destPath": "images/homepage/hero-products.png"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/06/photo-tshirts.jpg",
+      "filename": "tshirts-hero.jpg",
+      "subdir": "homepage",
+      "destPath": "images/homepage/tshirts-hero.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/06/Bulldog-Printing-logo-1.png",
+      "filename": "logo-large.png",
+      "subdir": "homepage",
+      "destPath": "images/homepage/logo-large.png"
+    }
+  ],
+  "about": [
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/07/choose.png",
+      "filename": "choose-product.png",
+      "subdir": "about",
+      "destPath": "images/about/choose-product.png"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/07/design.png",
+      "filename": "create-design.png",
+      "subdir": "about",
+      "destPath": "images/about/create-design.png"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2020/07/receive.png",
+      "filename": "receive-product.png",
+      "subdir": "about",
+      "destPath": "images/about/receive-product.png"
+    }
+  ],
+  "products": [
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Roll-Labels.jpg",
+      "filename": "roll-labels-stickers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/roll-labels-stickers.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Window-Clings.jpg",
+      "filename": "window-clings.jpg",
+      "subdir": "products",
+      "destPath": "images/products/window-clings.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Wall-Stickers.jpg",
+      "filename": "wall-stickers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/wall-stickers.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Business-Card-Stickers.jpg",
+      "filename": "business-card-stickers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/business-card-stickers.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Adhesive-Floor-Graphics.jpg",
+      "filename": "adhesive-floor-graphics.jpg",
+      "subdir": "products",
+      "destPath": "images/products/adhesive-floor-graphics.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Bumper-Stickers.jpg",
+      "filename": "bumper-stickers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/bumper-stickers.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Stickers.jpg",
+      "filename": "paper-stickers-vinyl-stickers-foil-stickers-round.jpg",
+      "subdir": "products",
+      "destPath": "images/products/paper-stickers-vinyl-stickers-foil-stickers-round.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Stationary.jpg",
+      "filename": "stationary.jpg",
+      "subdir": "products",
+      "destPath": "images/products/stationary.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Sales-Sheets.jpg",
+      "filename": "sales-sheet-flyers-8-5-x-11-text-paper.jpg",
+      "subdir": "products",
+      "destPath": "images/products/sales-sheet-flyers-8-5-x-11-text-paper.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Presentation-Folder.jpg",
+      "filename": "presentation-folder.jpg",
+      "subdir": "products",
+      "destPath": "images/products/presentation-folder.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Product-Packaging.jpg",
+      "filename": "product-packaging-boxes.jpg",
+      "subdir": "products",
+      "destPath": "images/products/product-packaging-boxes.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Envelopes.jpg",
+      "filename": "10-a4-a5.jpg",
+      "subdir": "products",
+      "destPath": "images/products/10-a4-a5.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Booklets.jpg",
+      "filename": "booklets.jpg",
+      "subdir": "products",
+      "destPath": "images/products/booklets.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Post-Cards.jpg",
+      "filename": "post-cards-and-flyers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/post-cards-and-flyers.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Calendars.jpg",
+      "filename": "calendars.jpg",
+      "subdir": "products",
+      "destPath": "images/products/calendars.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Catalogues.jpg",
+      "filename": "catalogues.jpg",
+      "subdir": "products",
+      "destPath": "images/products/catalogues.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Door-Hanger.jpg",
+      "filename": "door-hanger.jpg",
+      "subdir": "products",
+      "destPath": "images/products/door-hanger.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/EDDM.jpg",
+      "filename": "eddm.jpg",
+      "subdir": "products",
+      "destPath": "images/products/eddm.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Event-Tickets.jpg",
+      "filename": "event-tickets.jpg",
+      "subdir": "products",
+      "destPath": "images/products/event-tickets.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Greeting-Cards.jpg",
+      "filename": "greeting-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/greeting-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Hang-Tags.jpg",
+      "filename": "hang-tags.jpg",
+      "subdir": "products",
+      "destPath": "images/products/hang-tags.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Note-Pads.jpg",
+      "filename": "note-pads.jpg",
+      "subdir": "products",
+      "destPath": "images/products/note-pads.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Posters.jpg",
+      "filename": "large-paper-posters.jpg",
+      "subdir": "products",
+      "destPath": "images/products/large-paper-posters.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Letterhead.jpg",
+      "filename": "letterhead.jpg",
+      "subdir": "products",
+      "destPath": "images/products/letterhead.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/NCR-Forms.jpg",
+      "filename": "ncr-forms.jpg",
+      "subdir": "products",
+      "destPath": "images/products/ncr-forms.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Acrylic-Sign-Shapes.jpg",
+      "filename": "acrylic-sign-shapes.jpg",
+      "subdir": "products",
+      "destPath": "images/products/acrylic-sign-shapes.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Acrylic-Signs.jpg",
+      "filename": "acrylic-signs-12-sizes-available.jpg",
+      "subdir": "products",
+      "destPath": "images/products/acrylic-signs-12-sizes-available.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Yard-Signs.jpg",
+      "filename": "yard-signs-9-shapes-available.jpg",
+      "subdir": "products",
+      "destPath": "images/products/yard-signs-9-shapes-available.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/One-Way-Film.jpg",
+      "filename": "one-way-film.jpg",
+      "subdir": "products",
+      "destPath": "images/products/one-way-film.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Backlit-Signs.jpg",
+      "filename": "backlit-signs.jpg",
+      "subdir": "products",
+      "destPath": "images/products/backlit-signs.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Table-Top-Retractable.jpg",
+      "filename": "table-top-retractable.jpg",
+      "subdir": "products",
+      "destPath": "images/products/table-top-retractable.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Table-Throw.jpg",
+      "filename": "table-thow.jpg",
+      "subdir": "products",
+      "destPath": "images/products/table-thow.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Table-Runner.jpg",
+      "filename": "table-runner.jpg",
+      "subdir": "products",
+      "destPath": "images/products/table-runner.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/See-Thru-Vinyl.jpg",
+      "filename": "see-thru-vinyl.jpg",
+      "subdir": "products",
+      "destPath": "images/products/see-thru-vinyl.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Pole-Flag.jpg",
+      "filename": "ploe-flag.jpg",
+      "subdir": "products",
+      "destPath": "images/products/ploe-flag.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Large-Format.jpg",
+      "filename": "large-format-printing.jpg",
+      "subdir": "products",
+      "destPath": "images/products/large-format-printing.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Banner-Stand.jpg",
+      "filename": "banner-stand-with-banner.jpg",
+      "subdir": "products",
+      "destPath": "images/products/banner-stand-with-banner.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/13oz-Banner.jpg",
+      "filename": "13-oz-banners-with-grommets.jpg",
+      "subdir": "products",
+      "destPath": "images/products/13-oz-banners-with-grommets.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Backdrop-Banner.jpg",
+      "filename": "back-drop-banner-with-stand.jpg",
+      "subdir": "products",
+      "destPath": "images/products/back-drop-banner-with-stand.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Silk-Laminated.jpg",
+      "filename": "silk-laminated-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/silk-laminated-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Foil-Business-Cards.jpg",
+      "filename": "foil-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/foil-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Magnet-Business-Cards.jpg",
+      "filename": "magnet-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/magnet-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Natural-Business-Cards.jpg",
+      "filename": "natural-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/natural-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Plastic-Business-Cards.jpg",
+      "filename": "plastic-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/plastic-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Sticker-Business-Cards.jpg",
+      "filename": "sticker-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/sticker-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Brown-Craft.jpg",
+      "filename": "brown-craft-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/brown-craft-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Linen-Business-Cards.jpg",
+      "filename": "linen-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/linen-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Suede-Business-Cards.jpg",
+      "filename": "suede-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/suede-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Painted-Edge.jpg",
+      "filename": "painted-edge-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/painted-edge-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/16pt-UV-Coated.jpg",
+      "filename": "16-point-uv-coated-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/16-point-uv-coated-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Pearl-Business-Cards.jpg",
+      "filename": "pearl-business-cards.jpg",
+      "subdir": "products",
+      "destPath": "images/products/pearl-business-cards.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/White-Tee.jpg",
+      "filename": "white-tee.jpg",
+      "subdir": "products",
+      "destPath": "images/products/white-tee.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Light-Color-Tee.jpg",
+      "filename": "light-color-tee.jpg",
+      "subdir": "products",
+      "destPath": "images/products/light-color-tee.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Dark-Color-Tee.jpg",
+      "filename": "dark-color-tee.jpg",
+      "subdir": "products",
+      "destPath": "images/products/dark-color-tee.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2023/10/il_fullxfull.5228893548_irxe.webp",
+      "filename": "gildan-8000-dry-blend.webp",
+      "subdir": "products",
+      "destPath": "images/products/gildan-8000-dry-blend.webp"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Gildan-8800.jpg",
+      "filename": "gildan-8800-adult-dryblend-jersey-sport-shirt.jpg",
+      "subdir": "products",
+      "destPath": "images/products/gildan-8800-adult-dryblend-jersey-sport-shirt.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Augusta-423.jpg",
+      "filename": "augusta-423-adult-short-sleeve-baseball-jersey.jpg",
+      "subdir": "products",
+      "destPath": "images/products/augusta-423-adult-short-sleeve-baseball-jersey.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Hoodies.jpg",
+      "filename": "hoodies.jpg",
+      "subdir": "products",
+      "destPath": "images/products/hoodies.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Polo.jpg",
+      "filename": "polo.jpg",
+      "subdir": "products",
+      "destPath": "images/products/polo.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Jersey.jpg",
+      "filename": "jersey.jpg",
+      "subdir": "products",
+      "destPath": "images/products/jersey.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Gildan-18500.jpg",
+      "filename": "gildan-18500.jpg",
+      "subdir": "products",
+      "destPath": "images/products/gildan-18500.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/NLA-6933.jpg",
+      "filename": "next-level-apparel-6933-racerback-tank.jpg",
+      "subdir": "products",
+      "destPath": "images/products/next-level-apparel-6933-racerback-tank.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Tank-Top.jpg",
+      "filename": "tank-top.jpg",
+      "subdir": "products",
+      "destPath": "images/products/tank-top.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Baby-Bib.jpg",
+      "filename": "baby-bib.jpg",
+      "subdir": "products",
+      "destPath": "images/products/baby-bib.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Magnetic-Signs.jpg",
+      "filename": "magnetic-signs.jpg",
+      "subdir": "products",
+      "destPath": "images/products/magnetic-signs.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Stickers-Promo.jpg",
+      "filename": "stickers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/stickers.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Flyer.jpg",
+      "filename": "flyer.jpg",
+      "subdir": "products",
+      "destPath": "images/products/flyer.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Flyer-Distribution.jpg",
+      "filename": "plyer-distribution.jpg",
+      "subdir": "products",
+      "destPath": "images/products/plyer-distribution.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Sidewalk-Signs.jpg",
+      "filename": "side-walk-signs.jpg",
+      "subdir": "products",
+      "destPath": "images/products/side-walk-signs.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Banners.jpg",
+      "filename": "banners.jpg",
+      "subdir": "products",
+      "destPath": "images/products/banners.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Signs.jpg",
+      "filename": "signs.jpg",
+      "subdir": "products",
+      "destPath": "images/products/signs.jpg"
+    },
+    {
+      "url": "https://bulldogprinting.com/wp-content/uploads/2021/01/Mailers.jpg",
+      "filename": "mailers.jpg",
+      "subdir": "products",
+      "destPath": "images/products/mailers.jpg"
+    }
+  ],
+  "totals": {
+    "ok": 0,
+    "failed": 82
+  }
+}
