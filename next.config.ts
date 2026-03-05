@@ -18,10 +18,12 @@ const nextConfig: NextConfig = {
       { source: "/design-now", destination: "/shop", permanent: true },
       { source: "/marketplace", destination: "/shop", permanent: true },
       { source: "/chicagoflyerdistribution-home", destination: "/", permanent: true },
+      { source: "/design-templates", destination: "/shop", permanent: true },
+      { source: "/preview-design", destination: "/shop", permanent: true },
+      { source: "/design-preview", destination: "/shop", permanent: true },
+      { source: "/invoice", destination: "/contact", permanent: true },
       // Old WooCommerce category redirects
       { source: "/product-category/:slug", destination: "/shop/:slug", permanent: true },
-      // Old WooCommerce product redirects
-      { source: "/product/:slug", destination: "/product/:slug", permanent: false },
       // Catch broken cart/checkout pages
       { source: "/cart", destination: "/shop", permanent: true },
       { source: "/checkout", destination: "/shop", permanent: true },
